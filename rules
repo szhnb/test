@@ -73,7 +73,7 @@ proxy-groups:
     type: select
     proxies:
       - ♻️ 自动选择
-	  - 🚀 节点选择
+      - 🚀 节点选择
       - DIRECT
       - host.szh.buzz:443
       - haha.szh.buzz:49623
